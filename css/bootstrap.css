@@ -7,7 +7,7 @@ text-align: center;
 }
 
 #title{
-background-color:#BEF781;
+background-color:#819FF7;
 }
 .container-fluid{
 padding:4% 7%;
@@ -15,7 +15,7 @@ padding:4% 7%;
 .navbar-brand{
 
 font-family: Monoton;
-/* color:blue; */
+/* color:bl; */
 }
 .navbar{
 /* padding-bottom: 60px; */
@@ -30,7 +30,7 @@ padding:0 28px 38px 0;
 padding-bottom:20px;
 }
 div.sticky {
-background-color:#BEF781;
+background-color:#819FF7;
   position: -webkit-sticky;
   position: sticky;
 top:0;
