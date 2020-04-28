@@ -18,10 +18,7 @@ font-family: Monoton;
 /* color:bl; */
 }
 .navbar{
-/* padding-bottom: 60px; */
-position: -webkit-sticky;
-position: sticky;
-  top: 0;
+  position:absolute;
 }
 .nav-item{
 padding:0 28px 38px 0;
@@ -34,4 +31,5 @@ background-color:#819FF7;
   position: -webkit-sticky;
   position: sticky;
 top:0;
+
 }
