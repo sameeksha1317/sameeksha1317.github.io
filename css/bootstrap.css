@@ -1,0 +1,37 @@
+h1{
+font-family:"Shadows Into Light Two";
+font-size: 50px;
+padding-bottom: 20px;
+text-align: center;
+
+}
+
+#title{
+background-color:#ACFA58;
+}
+.container-fluid{
+padding:4% 7%;
+}
+.navbar-brand{
+
+font-family: Monoton;
+/* color:blue; */
+}
+.navbar{
+/* padding-bottom: 60px; */
+position: -webkit-sticky;
+position: sticky;
+  top: 0;
+}
+.nav-item{
+padding:0 28px 38px 0;
+}
+.btn{
+padding-bottom:20px;
+}
+div.sticky {
+background-color:#ACFA58;
+  position: -webkit-sticky;
+  position: sticky;
+top:0;
+}
