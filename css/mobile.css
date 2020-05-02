@@ -34,10 +34,46 @@ margin-left:auto;
 margin-right:auto;
 }
 .tiger1{
-background-color:#F5EFFB;
- height:4vw;
-width:4vw;
+
+ height:3.5vw;
+width:3.5vw;
  border-radius: 40px;
 text-align: center;
+/* margin-left: 1vw;
+margin-top: 23px; */
 
+}
+.content{
+padding-left: 1vw;
+padding-top: 1.7vw;
+}
+.foll{
+margin-top:1vw;
+font-size: 0.9vw;
+}
+.options{
+font-size:0.99vw;
+line-height: 1vw;
+margin-top: 2vw;
+}
+.footer{
+padding-left: 1vw;
+margin-bottom: 2vw;
+}
+.bar{
+  height:0.35vw;
+  width:6.5vw;
+  border-radius: 5px 5px 5px 5px ;
+  background-color:black;
+  margin-left:auto;
+  margin-right:auto;
+}
+.sidebar{
+float:right;
+height:30.8vw;
+width:4.5vw;
+background-color:pink;
+}
+.sidebarinside{
+background-color:yellow;
 }
