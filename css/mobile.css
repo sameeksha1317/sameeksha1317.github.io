@@ -1,0 +1,43 @@
+.blue{
+width:80vw;
+height:40vw;
+background-color: #A9F5F2;
+margin-left:auto;
+margin-right:auto;
+padding-top:3%;
+}
+.mobile1cover{
+  width:18.7vw;
+  height:31.5vw;
+background-color:black;
+margin-left: 22%;
+border-radius: 17px;
+padding-top: 0.8%;
+border:solid 0.4vw #BCA9F5;
+box-shadow: 0.4vw 0.4vw 1vw #0B243B;
+}
+.mobile1{
+width:17.5vw;
+height:30.8vw;
+background-color:white;
+margin-left: 3%;
+/* padding-top:0; */
+border-radius: 10px;
+
+}
+.upperblock{
+height:1.5vw;
+width:11vw;
+border-radius: 3px 3px 16px 16px ;
+background-color:black;
+margin-left:auto;
+margin-right:auto;
+}
+.tiger1{
+background-color:#F5EFFB;
+ height:4vw;
+width:4vw;
+ border-radius: 40px;
+text-align: center;
+
+}
