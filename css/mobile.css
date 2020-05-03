@@ -1,13 +1,15 @@
 .blue {
   width: 80vw;
-  height: 40vw;
+  height: 60vw;
   background-color: #A9F5F2;
   margin-left: auto;
   margin-right: auto;
   padding-top: 3%;
 }
-
-.mobile1cover {
+/* .mobilezone{
+padding-right: 3vw;
+} */
+#mobile1cover {
   width: 19.7vw;
   height: 35.5vw;
   background-color: black;
@@ -15,9 +17,9 @@
   border-radius: 1vw;
   padding-top: 0.8%;
   border: solid 0.4vw #BCA9F5;
-  box-shadow: 0.4vw 0.4vw 1vw #0B243B;
+  box-shadow: 0.2vw 0.2vw 1vw #210B61;
+float:left;
 }
-
 .mobile1 {
   width: 18.5vw;
   height: 34.8vw;
@@ -25,8 +27,23 @@
   margin-left: 3%;
   /* padding-top:0; */
   border-radius: 1vw;
+float:left;
 }
 
+#mobile2 {
+  width: 17.7vw;
+  height: 34.5vw;
+  background-color: #BCA9F5 ;
+  margin-right : 22%;
+  margin-top: 7%;
+  border-radius: 1vw;
+  border: solid 0.4vw #9F81F7;
+  box-shadow: 0.1vw 0.1vw 1vw 0 #210B61;
+padding-left: 1.5vw;
+padding-top: 1.5vw;
+float:right;
+  background-image: linear-gradient(#E6E0F8 10%,#BCA9F5 90%);
+}
 .upperbar {
   height: 1.2vw;
   width: 9vw;
@@ -95,11 +112,6 @@ margin-top: 1vw;
   margin-right: auto;
 }
 
-.sidebarinside1 {
-  padding-left: 1vw;
-  padding-top: 3vw;
-  padding-bottom: 0.7vw;
-}
 
 .name {
   font-size: 1.2vw;
@@ -108,6 +120,12 @@ margin-top: 1vw;
 .footer {
   font-size: 0.99vw;
   line-height: 0.8vw;
+}
+
+/* .sidebarinside1 {
+  padding-left: 1vw;
+  padding-top: 3vw;
+  padding-bottom: 0.7vw;
 }
 
 .sidebarinside2 {
@@ -126,8 +144,23 @@ margin-top: 1vw;
   padding-left: 1vw;
   padding-bottom: 3vw;
   padding-top: 0.2vw;
+} */
+.sidebarinside1{
+padding-left: 1vw;
+height:15%;
 }
-
+.sidebarinside2{
+padding-left: 1vw;
+height:28%;
+}
+.sidebarinside3{
+padding-left: 1vw;
+height:18%;
+}
+.sidebarinside4{
+padding-left: 1vw;
+height:15%;
+}
 .date {
   margin-left: 1.5vw;
   font-size: 0.9vw;
@@ -153,30 +186,23 @@ margin-left:7vw;
 .fas{
 padding-left: 0.37vw;
 }
-.mobile2 {
-  width: 19.7vw;
-  height: 35.5vw;
-  background-color: #D8CEF6;
-  margin-left: 52%;
-  border-radius: 1vw;
-  border: solid 0.4vw #BCA9F5;
-float:left;
-padding-left: 1.5vw;
-padding-top: 1.5vw;
-}
+
 .camerazone{
   width: 6vw;
   height: 6vw;
-  background-color: pink;
+  background-color:#E6E0F8;
 border-radius: 1.8vw;
 padding:1vw;
 padding-bottom: 1.5vw;
 padding-right: 1.3vw;
+  box-shadow: inset 0px 0px 15px 0px #9F81F7;
 }
 .c1,.c2{
 border: 5px solid #A9A9F5;
   width: 2.5vw;
   height: 2.5vw;
+  /* width: 30%;
+  height:1vw ; */
   background-color: black;
 border-radius: 3vw;
 margin-bottom: 0.2vw;
@@ -206,16 +232,22 @@ margin-bottom: 0.9vw;
   background-color: grey;
 border-radius: 3vw;
 float:right;
-
+  /* background-image: radial-gradient(circle,#F3F781 50%,#BCA9F5 40%); */
+background-image: radial-gradient(circle,#F2F5A9 50% ,#642EFE);
 }
 .c{
 margin-right: 2vw;
 }
 .apple{
 background-color: #D8CEF6;
-width:8vw;
+width:4vw;
 height:5vw;
-margin-left: 4vw;
-margin-top: 25%;
+margin-left: 7vw;
+margin-top: 10%;
+}
+.button{
+width:22px;
+height:4px;
+background-color: red;
 
 }
