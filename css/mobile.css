@@ -199,15 +199,15 @@ padding-left: 0.37vw;
   height: 6vw;
   background-color:#E6E0F8;
 border-radius: 1.8vw;
-padding:1vw;
+padding:0.8vw;
 padding-bottom: 1.5vw;
 padding-right: 1.3vw;
   box-shadow: inset 0px 0px 15px 0px #9F81F7;
 }
 .c1,.c2{
 border: 0.4vw solid #A9A9F5;
-  width: 2.3vw;
-  height: 2.3vw;
+  width: 2.6vw;
+  height: 2.6vw;
   background-color: black;
 border-radius: 3vw;
 margin-bottom: 0.2vw;
@@ -218,8 +218,8 @@ margin-bottom: 0.2vw;
     background-color: #0B0B61;
  background-image: linear-gradient(to right ,#0B0B61 10%,black,grey,black,#0B0B61);
   border-radius: 3vw;
-  margin-top: 0.3vw;
-  margin-left: 0.3vw;
+  margin-top: 0.4vw;
+  margin-left: 0.4vw;
 }
 .dots{
 float:right;
